@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles/generic/reset.css';
 import './styles/elements/base.css';
-import './styles/seetings/colors.css'
+import './styles/settings/colors.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
